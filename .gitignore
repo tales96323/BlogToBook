@@ -1,0 +1,41 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos de banco de dados ou logs
+*.db
+*.log
+
+# Arquivos de saída gerados pelo projeto
+data/processed/
+data/analysis/
+output/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.idea/
+*.iml
+
+# Arquivos de pacotes Python
+*.egg-info/
+dist/
+build/
+.qodo
