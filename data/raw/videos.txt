@@ -1,0 +1,140 @@
+Entendendo o Básico de IA e Redes Neurais - IAs vão te substituir??
+O que IAs podem fazer? | Exemplos de Ferramentas
+IAs são perigosas?
+Entendendo Como ChatGPT Funciona - Rodando sua Própria IA
+Entendendo "Devops" para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Entendendo "Devops" para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Quebrei 3 HDs: Entendendo Armazenamento
+Tudo que Você Queria Saber Sobre Dispositivos de Armazenamento
+Entendendo Sistemas de Arquivos: FAT
+Todos os Sistemas de Arquivos: de FAT a ZFS
+Qual a REAL diferença entre Arquivos Binário e Texto??
+Entendendo GIT | (não é um tutorial!)
+Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Introdução a Redes: Como Dados viram Ondas? | Parte 2
+Introdução a Redes: Como Dados viram Ondas? | Parte 3
+Como Funciona Sockets, Cliente, Servidor e a Web? | Introdução a Redes Parte 4
+Burlando Proxies e Firewalls | Introdução a Redes Parte 5 - SSH
+Criando uma Rede Segura | Introdução a Redes Parte 6 - VPN e NAS
+Como Funciona o Boot de um Linux? | O que tem num LiveCD?
+Entendendo Pacotes com Slackware | Deb, Apt, Tarbals
+Apanhando do Gentoo | Melhor Linux???
+Subindo Aplicações Web em Produção | Aprendendo HEROKU
+Tornando sua App Web Mais Rápida! | 4 Técnicas de Otimização
+Games em Máquina Virtual com GPU Passthrough | Entendendo QEMU, KVM, Libvirt
+Entendendo WSL 2 | E uma curta história sobre Windows NT
+Entendendo Funcionamento de Containers
+Protegendo e Recuperando Dados Perdidos - Git, Backup, BTRFS
+Motivação: O Diário de Henry Jones
+Meus Primeiros 5 Anos | 1990-1995
+Estrada do Futuro em 1996 | Meus 19 Anos
+Minha Máquina do Tempo | Meus Sites de Anime
+Como eu aprendi Inglês? E entendendo "padrões"!
+Meu Começo de Carreira Durante a Bolha - 1997 a 2002, Bug do Milênio, Crash
+Sua Linguagem É Especial? Parte 1 em 2001
+Sua Linguagem É Especial? Parte 2 em 2001
+Você não sabe nada de Enterprise. Conhecendo a SAP!
+A História de Ruby on Rails | Por que deu certo?
+A Dimensão do TEMPO para Iniciantes em Programação | Série "Começando aos 40"
+16 Linguagens em 16 Dias: Minha Saga da Rinha de Backend
+Projetos: Aprendendo a Priorizar
+Você não sabe nada de Enterprise. Conhecendo a SAP!
+O Mercado de TI para Iniciantes em Programação | Série "Começando aos 40"
+Esqueça Metodologias "Ágeis" | [Rated R]
+10 Mitos sobre Tech Startups | Parte 1
+10 Mitos sobre Tech Startups | Parte 2 [Rated R]
+O Guia DEFINITIVO de Organizações | Desconstruindo o Modelo Spotify [RATED R]
+A Bolha de Startups vai Estourar? | Winter is Coming
+A COVID-19 matou minha Startup? | Entendendo Criptomoedas
+RANT: Selo de Segurança é Marketing | Entendendo o Fator Humano
+O que os Cursos NÃO te Ensinam sobre Mercados
+Mercado Financeiro Pós-Pandemia: A Tempestade Perfeita?
+RANT: Empreendendo com Software do JEITO ERRADO!
+RANT: Média Salarial NÃO Existe | Entendendo Power Laws
+Subindo Aplicações Web em Produção | Aprendendo HEROKU
+A Forma Ideal de Projetos Web | Os 12 Fatores
+Rant: Aprendizado na Beira do Caos | Rated R
+Discutindo Gestão
+Rant: Projetos, TESTES e Estimativa??? | Rated-R
+Programa de Trainee CodeMiner 42 | Sua Primeira Oportunidade
+Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Detecção e Correção de Erros | Introdução a Redes Parte 2
+Como sua Internet Funciona | Introdução a Redes Parte 3
+Como Funciona Sockets, Cliente, Servidor e a Web? | Introdução a Redes Parte 4
+Burlando Proxies e Firewalls | Introdução a Redes Parte 5 - SSH
+Criando uma Rede Segura | Introdução a Redes Parte 6 - VPN e NAS
+A Bolha de Startups vai Estourar? | Winter is Coming
+10 Mitos sobre Tech Startups | Parte 1
+10 Mitos sobre Tech Startups | Parte 2 [Rated R]
+Não Terceirize suas Decisões! | A Lição MAIS Importante da sua Vida
+RANT: Programação NÃO É Fácil
+O que os Cursos NÃO te Ensinam sobre Mercados
+O que vem DEPOIS da COVID-19?
+Mercado Financeiro Pós-Pandemia: A Tempestade Perfeita?
+Rant: A Bolha de Startups Estourou?
+Manifesto Anti-Parasita: Seja um Criador
+Entendendo Apple, GPL e Compiladores
+Falando um pouco de MAC, LINUX e WINDOWS | Qual eu devo escolher?
+O Guia DEFINITIVO de UBUNTU para Devs Iniciantes
+Entendendo WSL 2 | E uma curta história sobre Windows NT
+O Melhor Setup Dev com Arch e WSL2
+Turing Complete, Emuladores e o Chip ARM M1
+Top 3 Distros Linux | Qual Recomendo?
+O Guia +Hardcore de Introdução à COMPUTAÇÃO
+Aprendendo sobre Computadores com Super Mario (do jeito Hardcore++)
+O Computador de Turing e Von Neumann | Por que calculadoras não são computadores?
+Introdução a Videogames e Emuladores
+Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+Hello World Como Você Nunca Viu! | Entendendo C
+O que vem DEPOIS do Hello World | Consertando meu C
+Árvores: O Começo de TUDO | Estruturas de Dados e Algoritmos
+Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits!
+A Longa História de CPUs e GPUs | Jogos de Windows em Linux??
+Linguagem Compilada vs Interpretada | Qual é melhor?
+Fiz um servidor de "SQL"?? | Entendendo Banco de Dados
+Quebrei 3 HDs: Entendendo Armazenamento
+Tudo que Você Queria Saber Sobre Dispositivos de Armazenamento
+Entendendo Sistemas de Arquivos: FAT
+Todos os Sistemas de Arquivos: de FAT a ZFS
+Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+Protegendo e Recuperando Dados Perdidos - Git, Backup, BTRFS
+Top 3 Distros Linux | Qual Recomendo?
+Apanhando do Gentoo | Melhor Linux???
+Entendendo Pacotes com Slackware | Deb, Apt, Tarbals
+Como Funciona o Boot de um Linux? | O que tem num LiveCD?
+RANT: A Realidade do "Software Livre"
+Entendendo Apple, GPL e Compiladores
+Falando um pouco de MAC, LINUX e WINDOWS | Qual eu devo escolher?
+Entendendo GIT | (não é um tutorial!)
+Entendendo Funcionamento de Containers
+Emacs vs Java | Oracle vs Google
+O Guia DEFINITIVO de UBUNTU para Devs Iniciantes
+O Melhor Setup Dev com Arch e WSL2
+A Controvérsia da Lerna vs ICE
+Games em Máquina Virtual com GPU Passthrough | Entendendo QEMU, KVM, Libvirt
+RANT: Programação NÃO É Fácil
+A Bolha de Startups vai Estourar? | Winter is Coming
+Pequena retrospectiva 2018 e previsões 2019
+O que vem DEPOIS da COVID-19?
+Conhecimentos Básicos para Iniciantes em Programação | Série "Começando aos 40"
+A História do Front-End para Iniciantes em Programação | Série "Começando aos 40"
+Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Entendendo Back-End para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Concorrência e Paralelismo (Parte 1) | Entendendo Back-End para Iniciantes (Parte 3)
+Concorrência e Paralelismo (Parte 2) | Entendendo Back-end para Iniciantes (Parte 4)
+Gerenciamento de Memória (Parte 1) | Entendendo Back-end para Iniciantes (Parte 5)
+Gerenciamento de Memória (Parte 2) | Entendendo Back-end para Iniciantes (Parte 6)
+Entendendo "Devops" para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Entendendo "Devops" para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Devo usar NOSQL? | "ENDGAME" para Iniciantes em Programação | Série "Começando aos 40"
+Começando na Carreira de TI | Faculdade? Níveis de Experiência?
+Entendendo GIT | (não é um tutorial!)
+Usando Git Direito | Limpando seus Commits!
+Recomendação de Livros - Introdução a Design Emergente
+A Forma Ideal de Projetos Web | Os 12 Fatores
+Subindo Aplicações Web em Produção | Aprendendo HEROKU
+De 5 Tera a 25 Giga | Compressão de Dados
+Linguagem Compilada vs Interpretada | Qual é melhor?
+Tornando sua App Web Mais Rápida! | 4 Técnicas de Otimização
+ChatGPT Consegue te Substituir? | Entendendo Jobs Assíncronos
+Python? Java? Rust? Qual a Diferença? | Discutindo Linguagens

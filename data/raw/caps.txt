@@ -1,0 +1,140 @@
+Inteligencia artificial - Entendendo o Básico de IA e Redes Neurais - IAs vão te substituir??
+Inteligencia artificial - O que IAs podem fazer? | Exemplos de Ferramentas
+Inteligencia artificial - IAs são perigosas?
+Inteligencia artificial - Entendendo Como ChatGPT Funciona - Rodando sua Própria IA
+Pré-Requisitos para Containres e VMs - Entendendo "Devops" para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Pré-Requisitos para Containres e VMs - Entendendo "Devops" para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Pré-Requisitos para Containres e VMs - Quebrei 3 HDs: Entendendo Armazenamento
+Pré-Requisitos para Containres e VMs - Tudo que Você Queria Saber Sobre Dispositivos de Armazenamento
+Pré-Requisitos para Containres e VMs - Entendendo Sistemas de Arquivos: FAT
+Pré-Requisitos para Containres e VMs - Todos os Sistemas de Arquivos: de FAT a ZFS
+Pré-Requisitos para Containres e VMs - Qual a REAL diferença entre Arquivos Binário e Texto??
+Pré-Requisitos para Containres e VMs - Entendendo GIT | (não é um tutorial!)
+Pré-Requisitos para Containres e VMs - Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Pré-Requisitos para Containres e VMs - Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Pré-Requisitos para Containres e VMs - Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Pré-Requisitos para Containres e VMs - Como Funciona Sockets, Cliente, Servidor e a Web? | Introdução a Redes Parte 4
+Pré-Requisitos para Containres e VMs - Burlando Proxies e Firewalls | Introdução a Redes Parte 5 - SSH
+Pré-Requisitos para Containres e VMs - Criando uma Rede Segura | Introdução a Redes Parte 6 - VPN e NAS
+Pré-Requisitos para Containres e VMs - Como Funciona o Boot de um Linux? | O que tem num LiveCD?
+Pré-Requisitos para Containres e VMs - Entendendo Pacotes com Slackware | Deb, Apt, Tarbals
+Pré-Requisitos para Containres e VMs - Apanhando do Gentoo | Melhor Linux???
+Pré-Requisitos para Containres e VMs - Subindo Aplicações Web em Produção | Aprendendo HEROKU
+Pré-Requisitos para Containres e VMs - Tornando sua App Web Mais Rápida! | 4 Técnicas de Otimização
+Pré-Requisitos para Containres e VMs - Games em Máquina Virtual com GPU Passthrough | Entendendo QEMU, KVM, Libvirt
+Pré-Requisitos para Containres e VMs - Entendendo WSL 2 | E uma curta história sobre Windows NT
+Pré-Requisitos para Containres e VMs - Entendendo Funcionamento de Containers
+Pré-Requisitos para Containres e VMs - Protegendo e Recuperando Dados Perdidos - Git, Backup, BTRFS
+Minha História - Motivação: O Diário de Henry Jones
+Minha História - Meus Primeiros 5 Anos | 1990-1995
+Minha História - Estrada do Futuro em 1996 | Meus 19 Anos
+Minha História - Minha Máquina do Tempo | Meus Sites de Anime
+Minha História - Como eu aprendi Inglês? E entendendo "padrões"!
+Minha História - Meu Começo de Carreira Durante a Bolha - 1997 a 2002, Bug do Milênio, Crash
+Minha História - Sua Linguagem É Especial? Parte 1 em 2001
+Minha História - Sua Linguagem É Especial? Parte 2 em 2001
+Minha História - Você não sabe nada de Enterprise. Conhecendo a SAP!
+Minha História - A História de Ruby on Rails | Por que deu certo?
+Minha História - A Dimensão do TEMPO para Iniciantes em Programação | Série "Começando aos 40"
+Minha História - 16 Linguagens em 16 Dias: Minha Saga da Rinha de Backend
+Gestão - Projetos: Aprendendo a Priorizar
+Gestão - Você não sabe nada de Enterprise. Conhecendo a SAP!
+Gestão - O Mercado de TI para Iniciantes em Programação | Série "Começando aos 40"
+Gestão - Esqueça Metodologias "Ágeis" | [Rated R]
+Gestão - 10 Mitos sobre Tech Startups | Parte 1
+Gestão - 10 Mitos sobre Tech Startups | Parte 2 [Rated R]
+Gestão - O Guia DEFINITIVO de Organizações | Desconstruindo o Modelo Spotify [RATED R]
+Gestão - A Bolha de Startups vai Estourar? | Winter is Coming
+Gestão - A COVID-19 matou minha Startup? | Entendendo Criptomoedas
+Gestão - RANT: Selo de Segurança é Marketing | Entendendo o Fator Humano
+Gestão - O que os Cursos NÃO te Ensinam sobre Mercados
+Gestão - Mercado Financeiro Pós-Pandemia: A Tempestade Perfeita?
+Gestão - RANT: Empreendendo com Software do JEITO ERRADO!
+Gestão - RANT: Média Salarial NÃO Existe | Entendendo Power Laws
+Gestão - Subindo Aplicações Web em Produção | Aprendendo HEROKU
+Gestão - A Forma Ideal de Projetos Web | Os 12 Fatores
+Gestão - Rant: Aprendizado na Beira do Caos | Rated R
+Gestão - Discutindo Gestão
+Gestão - Rant: Projetos, TESTES e Estimativa??? | Rated-R
+Gestão - Programa de Trainee CodeMiner 42 | Sua Primeira Oportunidade
+Introdução a Redes - Introdução a Redes: Como Dados viram Ondas? | Parte 1
+Introdução a Redes - Detecção e Correção de Erros | Introdução a Redes Parte 2
+Introdução a Redes - Como sua Internet Funciona | Introdução a Redes Parte 3
+Introdução a Redes - Como Funciona Sockets, Cliente, Servidor e a Web? | Introdução a Redes Parte 4
+Introdução a Redes - Burlando Proxies e Firewalls | Introdução a Redes Parte 5 - SSH
+Introdução a Redes - Criando uma Rede Segura | Introdução a Redes Parte 6 - VPN e NAS
+Eu avisei - A Bolha de Startups vai Estourar? | Winter is Coming
+Eu avisei - 10 Mitos sobre Tech Startups | Parte 1
+Eu avisei - 10 Mitos sobre Tech Startups | Parte 2 [Rated R]
+Eu avisei - Não Terceirize suas Decisões! | A Lição MAIS Importante da sua Vida
+Eu avisei - RANT: Programação NÃO É Fácil
+Eu avisei - O que os Cursos NÃO te Ensinam sobre Mercados
+Eu avisei - O que vem DEPOIS da COVID-19?
+Eu avisei - Mercado Financeiro Pós-Pandemia: A Tempestade Perfeita?
+Eu avisei - Rant: A Bolha de Startups Estourou?
+Eu avisei - Manifesto Anti-Parasita: Seja um Criador
+Sistemas Operacionais - Entendendo Apple, GPL e Compiladores
+Sistemas Operacionais - Falando um pouco de MAC, LINUX e WINDOWS | Qual eu devo escolher?
+Sistemas Operacionais - O Guia DEFINITIVO de UBUNTU para Devs Iniciantes
+Sistemas Operacionais - Entendendo WSL 2 | E uma curta história sobre Windows NT
+Sistemas Operacionais - O Melhor Setup Dev com Arch e WSL2
+Sistemas Operacionais - Turing Complete, Emuladores e o Chip ARM M1
+Sistemas Operacionais - Top 3 Distros Linux | Qual Recomendo?
+Como Computadores Funcionam - O Guia +Hardcore de Introdução à COMPUTAÇÃO
+Como Computadores Funcionam - Aprendendo sobre Computadores com Super Mario (do jeito Hardcore++)
+Como Computadores Funcionam - O Computador de Turing e Von Neumann | Por que calculadoras não são computadores?
+Como Computadores Funcionam - Introdução a Videogames e Emuladores
+Como Computadores Funcionam - Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+Como Computadores Funcionam - Hello World Como Você Nunca Viu! | Entendendo C
+Como Computadores Funcionam - O que vem DEPOIS do Hello World | Consertando meu C
+Como Computadores Funcionam - Árvores: O Começo de TUDO | Estruturas de Dados e Algoritmos
+Como Computadores Funcionam - Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits!
+Como Computadores Funcionam - A Longa História de CPUs e GPUs | Jogos de Windows em Linux??
+Como Computadores Funcionam - Linguagem Compilada vs Interpretada | Qual é melhor?
+Como Computadores Funcionam - Fiz um servidor de "SQL"?? | Entendendo Banco de Dados
+Entendendo Armazenamento - Quebrei 3 HDs: Entendendo Armazenamento
+Entendendo Armazenamento - Tudo que Você Queria Saber Sobre Dispositivos de Armazenamento
+Entendendo Armazenamento - Entendendo Sistemas de Arquivos: FAT
+Entendendo Armazenamento - Todos os Sistemas de Arquivos: de FAT a ZFS
+Entendendo Armazenamento - Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+Entendendo Armazenamento - Protegendo e Recuperando Dados Perdidos - Git, Backup, BTRFS
+Software Livre e Open Source - Top 3 Distros Linux | Qual Recomendo?
+Software Livre e Open Source - Apanhando do Gentoo | Melhor Linux???
+Software Livre e Open Source - Entendendo Pacotes com Slackware | Deb, Apt, Tarbals
+Software Livre e Open Source - Como Funciona o Boot de um Linux? | O que tem num LiveCD?
+Software Livre e Open Source - RANT: A Realidade do "Software Livre"
+Software Livre e Open Source - Entendendo Apple, GPL e Compiladores
+Software Livre e Open Source - Falando um pouco de MAC, LINUX e WINDOWS | Qual eu devo escolher?
+Software Livre e Open Source - Entendendo GIT | (não é um tutorial!)
+Software Livre e Open Source - Entendendo Funcionamento de Containers
+Software Livre e Open Source - Emacs vs Java | Oracle vs Google
+Software Livre e Open Source - O Guia DEFINITIVO de UBUNTU para Devs Iniciantes
+Software Livre e Open Source - O Melhor Setup Dev com Arch e WSL2
+Software Livre e Open Source - A Controvérsia da Lerna vs ICE
+Software Livre e Open Source - Games em Máquina Virtual com GPU Passthrough | Entendendo QEMU, KVM, Libvirt
+Bolha? - RANT: Programação NÃO É Fácil
+Bolha? - A Bolha de Startups vai Estourar? | Winter is Coming
+Bolha? - Pequena retrospectiva 2018 e previsões 2019
+Bolha? - O que vem DEPOIS da COVID-19?
+Programação para Iniciantes - Conhecimentos Básicos para Iniciantes em Programação | Série "Começando aos 40"
+Programação para Iniciantes - A História do Front-End para Iniciantes em Programação | Série "Começando aos 40"
+Programação para Iniciantes - Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Programação para Iniciantes - Entendendo Back-End para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Programação para Iniciantes - Concorrência e Paralelismo (Parte 1) | Entendendo Back-End para Iniciantes (Parte 3)
+Programação para Iniciantes - Concorrência e Paralelismo (Parte 2) | Entendendo Back-end para Iniciantes (Parte 4)
+Programação para Iniciantes - Gerenciamento de Memória (Parte 1) | Entendendo Back-end para Iniciantes (Parte 5)
+Programação para Iniciantes - Gerenciamento de Memória (Parte 2) | Entendendo Back-end para Iniciantes (Parte 6)
+Programação para Iniciantes - Entendendo "Devops" para Iniciantes em Programação (Parte 1) | Série "Começando aos 40"
+Programação para Iniciantes - Entendendo "Devops" para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
+Programação para Iniciantes - Devo usar NOSQL? | "ENDGAME" para Iniciantes em Programação | Série "Começando aos 40"
+Programação para Iniciantes - Começando na Carreira de TI | Faculdade? Níveis de Experiência?
+Programação para Iniciantes - Entendendo GIT | (não é um tutorial!)
+Programação para Iniciantes - Usando Git Direito | Limpando seus Commits!
+Programação para Iniciantes - Recomendação de Livros - Introdução a Design Emergente
+Programação para Iniciantes - A Forma Ideal de Projetos Web | Os 12 Fatores
+Programação para Iniciantes - Subindo Aplicações Web em Produção | Aprendendo HEROKU
+Programação para Iniciantes - De 5 Tera a 25 Giga | Compressão de Dados
+Programação para Iniciantes - Linguagem Compilada vs Interpretada | Qual é melhor?
+Programação para Iniciantes - Tornando sua App Web Mais Rápida! | 4 Técnicas de Otimização
+Programação para Iniciantes - ChatGPT Consegue te Substituir? | Entendendo Jobs Assíncronos
+Programação para Iniciantes - Python? Java? Rust? Qual a Diferença? | Discutindo Linguagens
