@@ -93,27 +93,6 @@ BlogToBook/
 └── README.md                 # Este arquivo
 ```
 
----
-
-## **Como Contribuir**
-
-1. **Faça um Fork** do projeto
-2. **Crie uma Branch**:
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. **Commit suas Mudanças**:
-   ```bash
-   git commit -m 'Adiciona recurso incrível'
-   ```
-4. **Push para a Branch**:
-   ```bash
-   git push origin feature/nova-funcionalidade
-   ```
-5. **Abra um Pull Request**
-
----
-
 ## **Licença**
 
 MIT License - [LICENSE](LICENSE)
@@ -138,7 +117,3 @@ Consulte [workflow.md](docs/workflow.md) ou abra uma **issue** no repositório
 ---
 
 Feito com ❤️ por Tales
-
-```
-
-```
